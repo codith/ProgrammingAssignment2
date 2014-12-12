@@ -1,3 +1,9 @@
+Data Science Specialization
+
+[R Programming](https://www.coursera.org/course/rprog)
+
+Assignment 2
+
 ### Introduction
 
 This second programming assignment will require you to write an R
